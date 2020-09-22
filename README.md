@@ -9,6 +9,8 @@
 ## Prerequisite:
 - Recommended file name format: _author_names_.txt (with given reviews in each .txt file)
 - Any unique identifier or file labels will be fine as long as each file has 
+- Install requirements.txt via pip - essentially, it's just pyspark in there right now:
+    - `pip install -r requirements.txt`
 
 ## Input:
 - Default input: corpus words located in **dictionary** folder containing
@@ -26,7 +28,7 @@
 
 ## START: How to execute program 
 - _While this program behaves more like a script, line 103-104 still act as the input command line prompt_
-- `python3 ceo_score.py [file_directory_input] [output_name]`
+- `python3 cog_complexity_score.py [file_directory_input] [output_name]`
 
 
 ## PURPOSE: How is it done - (per notes from CEO's Q&A calls):

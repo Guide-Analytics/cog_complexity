@@ -1,8 +1,10 @@
- # Cognitive Complexity 
+# Cognitive Complexity 
 
+## Abstract:
+- TBW (TO BE WRITTEN)
 
 ## PDF: 
-- [CEO Cognitive Complexity](ceo_cog_complexity.pdf)
+- For more info: [CEO Cognitive Complexity](ceo_cog_complexity.pdf)
 
 ## Prerequisite:
 - Recommended file name format: _author_names_.txt (with given reviews in each .txt file)

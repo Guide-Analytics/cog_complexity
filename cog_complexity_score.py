@@ -147,10 +147,9 @@ file_change_df = file_change_df.filter(col('token_count') >= 250)
 
 ## IMPORTANT!!!!!!!
 # If the program crashes here, you may need to comment this section out from line 155-160. 
-# Replace in line 157 
+# Replace everything below starting on line 163
 # From: file_name_change_df 
 # To: file_change_df
-# file_change_df = file_change_df ...
 
 split_col = split(col('ceo_year_name'), '_')
 file_name_change_df = file_change_df.withColumn('', split_col.getItem(0)).cache() 

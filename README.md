@@ -9,6 +9,11 @@
 - Any unique identifier or file labels will be fine as long as each file has 
 
 ## Input:
+- Default input: corpus words located in **dictionary** folder containing
+    - strong.txt (strong words)
+    - weak.txt (weak words)
+    - comp.txt (comparative words)
+    - diff.txt (diffarance words)
 - Takes a directory of .txt files. The directory must be stored in **author_data**
 - .txt must not contain any dataframes. Must be all texts
 

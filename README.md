@@ -2,18 +2,19 @@
 
 
 ## PDF: 
-- [Link to File](ceo_cog_complexity.pdf)
+- [CEO Cognitive Complexity](ceo_cog_complexity.pdf)
 
 ## Prerequisite:
 - Recommended file name format: _author_names_.txt (with given reviews in each .txt file)
-- 
+- Any unique identifier or file labels will be fine as long as each file has 
 
 ## Input:
-- Takes a directory of .txt 
+- Takes a directory of .txt files. The directory must be stored in **author_data**
 - .txt must not contain any dataframes. Must be all texts
 
 ## Output:
 - A dataframe with each .txt file name as a id/file name column 
+- Results is saved in one .csv file. You may use other conversion file types (i.e. csv --> parquet, csv --> avro)
 
 ## START: How to execute program 
 

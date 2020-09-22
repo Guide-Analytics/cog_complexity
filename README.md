@@ -1,4 +1,4 @@
-# Cognitive Complexity 
+ # Cognitive Complexity 
 
 
 ## PDF: 
@@ -24,8 +24,7 @@
 
 ## START: How to execute program 
 - _While this program behaves more like a script, line 103-104 still act as the input command line prompt_
-- 
-`python3 ceo_score.py `
+- `python3 ceo_score.py [file_directory_input] [output_name]`
 
 
 ## PURPOSE: How is it done - (per notes from CEO's Q&A calls):

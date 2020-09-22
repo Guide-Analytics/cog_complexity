@@ -16,8 +16,8 @@
 - Default input: corpus words located in **dictionary** folder containing
     - strong.txt (strong words)
     - weak.txt (weak words)
-    - comp.txt (comparative words)
-    - diff.txt (diffarance words)
+    - comp.txt (comparative words - establishing comparisons)
+    - diff.txt (difference words - capturing differentiation in thinking, drawing distinctions, or describing contrasts)
 - Takes a directory of .txt files. The directory must be stored in **author_data**
 - .txt must not contain any dataframes. Must be all texts
 

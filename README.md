@@ -15,6 +15,7 @@
 ## Output:
 - A dataframe with each .txt file name as a id/file name column 
 - Results is saved in one .csv file. You may use other conversion file types (i.e. csv --> parquet, csv --> avro). Make that change either on a seperate program or in _line 158_
+- Results are stored in **author_data/results**
 
 ## START: How to execute program 
 - _While this program behaves more like a script, line 103-104 still act as the input command line prompt_

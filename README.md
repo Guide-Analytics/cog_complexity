@@ -1,7 +1,7 @@
 # Cognitive Complexity 
 
 
-## PDF: orsc.CEO cognitive complexity
+## PDF: ./orsc.CEO cognitive complexity.pdf
 
 ## Prerequisite:
 - Recommended file name format: _author_names_.txt (with given reviews in each .txt file)

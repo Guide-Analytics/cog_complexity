@@ -22,7 +22,7 @@
 - .txt must not contain any dataframes. Must be all texts
 
 ## Output:
-- A dataframe with each .txt file name as a id/file name column 
+- A dataframe with each .txt file name as an id/file name column 
 - Results is saved in one .csv file. You may use other conversion file types (i.e. csv --> parquet, csv --> avro). Make that change either on a seperate program or in _line 158_
 - Results are stored in **author_data/results**
 

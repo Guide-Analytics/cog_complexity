@@ -1,7 +1,11 @@
 # Cognitive Complexity 
 
+
+## PDF: orsc.CEO cognitive complexity
+
 ## Prerequisite:
 - Recommended file name format: _author_names_.txt (with given reviews in each .txt file)
+- 
 
 ## Input:
 - Takes a directory of .txt 
@@ -10,7 +14,11 @@
 ## Output:
 - A dataframe with each .txt file name as a id/file name column 
 
-## How is it done - (per notes from CEO's Q&A calls):
+## START: How to execute program 
+
+
+
+## PURPOSE: How is it done - (per notes from CEO's Q&A calls):
 - Our measure of differentiation language was the number of such words used divided by all of the [CEO's] Q&A words in a given call.
 - Our measure of nuance leverages both valences: number of weak words divided by the total number of strong and weak words spoken by the [CEO's] in the Q&A part of the call. We added 0.01 to the numerator and 0.02 to the denominator to allow for meaningful values when either term was zero.
 - Our final measure was the ratio of comparative words to all words spoken by the [CEO's] in the Q&A portion of a given conference call.

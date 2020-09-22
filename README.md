@@ -2,7 +2,7 @@
 
 
 ## PDF: 
-- [Link to File](cognitive-complexity/orsc.CEO cognitive complexity.pdf)
+- [Link to File](ceo_cog_complexity.pdf)
 
 ## Prerequisite:
 - Recommended file name format: _author_names_.txt (with given reviews in each .txt file)

@@ -17,7 +17,9 @@
 - Results is saved in one .csv file. You may use other conversion file types (i.e. csv --> parquet, csv --> avro)
 
 ## START: How to execute program 
-
+- _While this program behaves more like a script, line 103-104 still act as the input command line prompt_
+- 
+`python3 ceo_score.py `
 
 
 ## PURPOSE: How is it done - (per notes from CEO's Q&A calls):
@@ -26,3 +28,8 @@
 - Our final measure was the ratio of comparative words to all words spoken by the [CEO's] in the Q&A portion of a given conference call.
 - Using this sample, we measured our three component indicators of [CEO's] cognitive complexity (differentiation, nuance, and comparison) for each call.
 Cognitive scores are located at the last 3 columns of the pew_dataset, with the token count (word count) being placed in the front of the scores. Everything after column txt-wordcount, are newly added (scientists_full_file_name	file_name_id	name	initials	sci_id	total_token_count	diff_token_count	comp_token_count	strong_token_count	weak_token_count	diff_score	nuance_score	comp_score) . We might not need the file_name_id, name, initials, sci_id
+
+
+## Other notes:
+- Program is not documented, however functions, names, types, entries are clearly labelled. 
+- Only possible user intervention codes are on line 103 and 104

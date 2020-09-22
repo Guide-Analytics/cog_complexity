@@ -30,7 +30,7 @@
 - _While this program behaves more like a script, line 103-104 still act as the input command line prompt_
 - `python3 cog_complexity_score.py [file_directory_input] [output_name]`
     - file_directory_input: _default: **author\_data** folder_. You may put your inputs inside here. If you wish to create your own input folder, simply create another folder inside **author_data** and specify it when running: `python3 cog_complexity_score.py folder_name`
-    - 
+    - output_name: output file name. Program will give you an arbitrary name if not given...
 
 
 ## PURPOSE: How is it done - (per notes from CEO's Q&A calls):

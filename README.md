@@ -8,7 +8,7 @@
 
 ## Prerequisite:
 - Recommended file name format: _author_names_.txt (with given reviews in each .txt file)
-- Any unique identifier or file labels will be fine as long as each file has 
+- Any unique identifier or file labels will be fine as long as each file is in .txt format
 - Install requirements.txt via pip - essentially, it's just pyspark in there right now:
     - `pip install -r requirements.txt`
 

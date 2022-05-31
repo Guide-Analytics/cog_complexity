@@ -1,8 +1,5 @@
 # Cognitive Complexity 
 
-## Abstract:
-- TBW (TO BE WRITTEN)
-
 ## PDF: 
 - For more info: [CEO Cognitive Complexity](ceo_cog_complexity.pdf)
 
